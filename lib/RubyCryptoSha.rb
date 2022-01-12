@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-
+require "rutie"
 require_relative "RubyCryptoSha/version"
 
 module RubyCryptoSha
